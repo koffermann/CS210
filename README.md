@@ -3,9 +3,10 @@ CS210 - Portfolio
 
 **
 
-<b>Summarize the project and what problem it was solving.</b>
-<br><i> test </i> 
+<b>1. Summarize the project and what problem it was solving.</b>
+<br><i> The purpose of this project was to simulate being a software developer for a company called Chada Tech. Chada Tech needed a program written for a grocery store (Grocer's Corner) that will allow users to either get a list of all items sold that day with the amount sold, search for a specific item and its quantity sold, or receive a histogram graph to visually represent items sold that day. My task as the developer was to create a program that would allow users to select one of these options from a menu, constantly returning the user to the main menu until they were done. Once the job  </i> 
 <br>
+
 # What did you do particularly well?
     
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
