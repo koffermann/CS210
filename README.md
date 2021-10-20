@@ -4,8 +4,8 @@ CS210 - Portfolio
 **
 
 <b>Summarize the project and what problem it was solving.</b>
-<i> test </i> 
-    
+<br><i> test </i> 
+<br>
 # What did you do particularly well?
     
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
