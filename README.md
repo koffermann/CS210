@@ -3,7 +3,7 @@ CS210 - Portfolio
 
 **
 
-# Summarize the project and what problem it was solving.
+<b><font color = "teal"> 1. Summarize the project and what problem it was solving. </font></b>
 <i> test </i> 
     
 # What did you do particularly well?
