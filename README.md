@@ -4,14 +4,14 @@ CS210 - Portfolio
 **
 
 <b> Name:</b> Kerrian Offermann
-<b> Class:</b> CS-210
-<b> Assignment:</b> Module 8 Journal
-<b> Date:</b> 10/20/21
+<br><b> Class:</b> CS-210
+<br><b> Assignment:</b> Module 8 Journal
+<br><b> Date:</b> 10/20/21
 
 **
 
 <b> 1. Summarize the project and what problem it was solving. </b>
-<br><i> The purpose of this project was to simulate being a software developer for a company called Chada Tech. Chada Tech needed a program written for a grocery store (Grocer's Corner) that will allow users to either get a list of all items sold that day with the amount sold, search for a specific item and its quantity sold, or receive a histogram graph to visually represent items sold that day. My task as the developer was to create a program that would allow users to select one of these options from a menu, constantly returning the user to the main menu until they were done. Once the job  </i> 
+<br>The purpose of this project was to simulate being a software developer for a company called Chada Tech. Chada Tech needed a program written for a grocery store (Grocer's Corner) that will allow users to either get a list of all items sold that day with the amount sold, search for a specific item and its quantity sold, or receive a histogram graph to visually represent items sold that day. My task as the developer was to create a program that would allow users to select one of these options from a menu, and to keep them "logged in" with a loop until they enter a command to exit the program. </i> 
 <br>
 <br>
 <b> 2. What did you do particularly well? </b>
