@@ -12,11 +12,10 @@ CS210 - Portfolio
 <br>
 <br>  
 <b> 3. Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? </b>
-<br><i> If I could enhance my code, I would take my professor's feedback and do a better job at formatting. I think adding more care to  </i> 
+<br><i> If I could enhance my code, I would take my professor's feedback and improve the program's formatting. Putting more care into the layout of the menu would make navigation easier for the users.</i> 
 <br>
     
-# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-<b> 2. What did you do particularly well? </b>
+<b> 4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? </b>
 <br><i> I believe </i> 
 <br>
     
