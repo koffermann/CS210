@@ -15,24 +15,22 @@ CS210 - Portfolio
 <br>
 <br>
 <b> 2. What did you do particularly well? </b>
-<br><i> I believe what I did well was build a program that took advantage of Python's strength in handling data. It was a rough ride trying to connect Python and Visual Basic during this course, but finally getting them to work together and then backing off of the things I learned in C++ a little to really take advantage of this newly established connection between the programs was something I not only accomplished, but something I ended up becoming really proud of in the end. </i> 
+<br> I believe what I did well was build a program that took advantage of Python's strength in handling data. It was a rough ride trying to connect Python and Visual Basic during this course, but finally getting them to work together and then backing off of the things I learned in C++ a little to really take advantage of this newly established connection between the programs was something I not only accomplished, but something I ended up becoming really proud of in the end. 
 <br>
 <br>  
 <b> 3. Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? </b>
-<br><i> If I could enhance my code, I would take my professor's feedback and improve the program's formatting. Putting more care into the layout of the menu would make navigation easier for the users.</i> 
+<br> If I could enhance my code, I would take my professor's feedback and improve the program's formatting. Putting more care into the layout of the menu would make navigation easier for the users.
 <br>
     
 <b> 4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? </b>
-<br><i> I believe </i> 
+<br> I believe  
 <br>
     
-# What skills from this project will be particularly transferable to other projects or course work?
-<b> 2. What did you do particularly well? </b>
-<br><i> I believe </i> 
+<b> 5. What skills from this project will be particularly transferable to other projects or course work? </b>
+<br> I believe 
 <br>
     
-# How did you make this program maintainable, readable, and adaptable?
-<b> 2. What did you do particularly well? </b>
+<b> 6. # How did you make this program maintainable, readable, and adaptable? </b>
 <br><i> I believe </i> 
 <br>
     
